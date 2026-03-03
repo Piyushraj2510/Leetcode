@@ -1,4 +1,4 @@
-# 📘 LeetCode DSA Practice
+# 📘 LeetCode DSA Practice 
 
 This repository contains the **LeetCode problems I’ve solved as part of my DSA prep journey**.  
 It shows my progress solving algorithmic and data structure problems to improve problem solving skills and prepare for technical interviews.
@@ -57,7 +57,7 @@ If you want to:
 ✔ Submit alternate approaches  
 ✔ Comment or improve readability  
 
-Feel free to open a Pull Request 🤝
+Feel free to open a Pull Request
 
 ---
 
